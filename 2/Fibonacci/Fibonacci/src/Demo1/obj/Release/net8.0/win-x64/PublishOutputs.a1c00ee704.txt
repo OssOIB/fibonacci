@@ -1,0 +1,2 @@
+C:\Users\plugv\Development\microsoftTech\Demo1\bin\Release\net8.0\win-x64\publish\Demo1.pdb
+C:\Users\plugv\Development\microsoftTech\Demo1\bin\Release\net8.0\win-x64\publish\Demo1.exe

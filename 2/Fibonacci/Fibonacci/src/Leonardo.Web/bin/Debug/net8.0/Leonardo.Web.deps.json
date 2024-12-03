@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Leonardo.Web/1.0.0": {
+        "runtime": {
+          "Leonardo.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leonardo.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
