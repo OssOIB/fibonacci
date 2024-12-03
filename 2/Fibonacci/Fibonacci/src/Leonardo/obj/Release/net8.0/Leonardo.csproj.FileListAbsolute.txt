@@ -1,0 +1,12 @@
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\bin\Release\net8.0\Leonardo.deps.json
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\bin\Release\net8.0\Leonardo.dll
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\bin\Release\net8.0\Leonardo.pdb
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.AssemblyInfoInputs.cache
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.AssemblyInfo.cs
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.sourcelink.json
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.dll
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\refint\Leonardo.dll
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\Leonardo.pdb
+C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\obj\Release\net8.0\ref\Leonardo.dll

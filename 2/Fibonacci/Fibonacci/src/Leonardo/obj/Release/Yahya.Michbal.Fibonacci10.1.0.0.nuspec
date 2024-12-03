@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Yahya.Michbal.Fibonacci10</id>
+    <version>1.0.0</version>
+    <authors>Leonardo</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="185102f982f3fd88fd9d1509801ba0108e65d26c" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\yahya\Downloads\Fibonacci 2\2\Fibonacci\Fibonacci\src\Leonardo\bin\Release\net8.0\Leonardo.dll" target="lib\net8.0\Leonardo.dll" />
+  </files>
+</package>
