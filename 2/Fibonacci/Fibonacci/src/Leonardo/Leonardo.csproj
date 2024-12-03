@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullablei>enable</Nullablei>
-    <PackageId>Yahya.Michbal.Fibonacci10</PackageId>
+    <PackageId>Yahya.Michbal.Fibonacci7</PackageId>
   </PropertyGroup>
 
 </Project>

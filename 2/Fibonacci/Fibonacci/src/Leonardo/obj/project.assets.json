@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yahya\\Downloads\\Fibonacci\\Fibonacci\\src\\Leonardo\\Leonardo.csproj",
-      "projectName": "Leonardo",
-      "projectPath": "C:\\Users\\yahya\\Downloads\\Fibonacci\\Fibonacci\\src\\Leonardo\\Leonardo.csproj",
+      "projectUniqueName": "C:\\Users\\yahya\\Downloads\\Fibonacci 2\\2\\Fibonacci\\Fibonacci\\src\\Leonardo\\Leonardo.csproj",
+      "projectName": "Yahya.Michbal.Fibonacci10",
+      "projectPath": "C:\\Users\\yahya\\Downloads\\Fibonacci 2\\2\\Fibonacci\\Fibonacci\\src\\Leonardo\\Leonardo.csproj",
       "packagesPath": "C:\\Users\\yahya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yahya\\Downloads\\Fibonacci\\Fibonacci\\src\\Leonardo\\obj\\",
+      "outputPath": "C:\\Users\\yahya\\Downloads\\Fibonacci 2\\2\\Fibonacci\\Fibonacci\\src\\Leonardo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yahya\\AppData\\Roaming\\NuGet\\NuGet.Config"
